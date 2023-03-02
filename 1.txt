@@ -28,3 +28,4 @@ master 6-1
 master 6-2
 
 test6 1
+test6 -2
